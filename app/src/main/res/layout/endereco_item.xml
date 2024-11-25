@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/rua"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rua" />
+
+    <TextView
+        android:id="@+id/cidade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cidade" />
+
+    <TextView
+        android:id="@+id/estado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Estado" />
+
+    <TextView
+        android:id="@+id/cep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CEP" />
+</LinearLayout>

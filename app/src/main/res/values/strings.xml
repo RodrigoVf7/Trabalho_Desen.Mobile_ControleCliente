@@ -1,0 +1,15 @@
+<resources>
+    <string name="adicionar_cliente">Adicionar Cliente</string>
+    <string name="app_name">Nome do Seu App</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_telefone">Telefone</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_observacoes">Observações</string>
+    <string name="hint_logradouro">Logradouro</string>
+    <string name="hint_numero">Número</string>
+    <string name="hint_bairro">Bairro</string>
+    <string name="hint_cidade">Cidade</string>
+    <string name="hint_estado">Estado</string>
+    <string name="btn_salvar">Salvar</string>
+</resources>
+

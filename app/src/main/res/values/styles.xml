@@ -1,0 +1,12 @@
+<resources>
+    <!-- Tema customizado que herda de Theme.AppCompat -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Cor primária do tema -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Outras personalizações de tema -->
+        <!-- Defina cores personalizadas ou outras opções que você desejar -->
+    </style>
+</resources>
